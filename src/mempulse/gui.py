@@ -28,16 +28,6 @@ headerbar, AdwHeaderBar {
     color: #fffbeb;
     min-height: 42px;
 }
-windowcontrols button {
-    min-width: 18px;
-    min-height: 18px;
-    padding: 2px;
-    margin: 0 2px;
-    border-radius: 9999px;
-}
-windowcontrols button image {
-    -gtk-icon-size: 12px;
-}
 stackswitcher button {
     border-radius: 7px;
     padding: 4px 12px;
